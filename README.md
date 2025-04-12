@@ -49,6 +49,8 @@ streamlit run app.py
 ```
 
 应用将在本地启动，默认访问地址为：http://localhost:8501
+![image](https://github.com/user-attachments/assets/29ceca77-0fbf-4204-aedb-3be6fdde4e2d)
+
 
 ## 使用说明
 
